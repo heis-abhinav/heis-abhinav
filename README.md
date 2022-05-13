@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heis-abhinav
+- 👋 Hi, I’m Abhinav
 - 👀 I’m interested in php and web development
 - 💞️ I’m looking to collaborate on some php related developments
 - 📫 connect with me @ abhinavkumr77@gmail.com
