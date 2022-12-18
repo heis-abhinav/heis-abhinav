@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Abhinav
-- 👀 I’m interested in php and web development
-- 💞️ I’m looking to collaborate on some php related developments
+- 👋 Hi, I’m Abhinav.. Abhinav Sharma.
 - 📫 connect with me @ abhinavkumr77@gmail.com
 
 <!---
